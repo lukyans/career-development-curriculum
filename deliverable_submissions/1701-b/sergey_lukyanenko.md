@@ -5,12 +5,15 @@
     * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
     * Meetup: Link to gist listing: 
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
+      * https://www.meetup.com/gotostartups/events/237746568/ This meetup is for Entrepreneurs, investors, mentors and those who are interested in starting an innovative business *
       * Your talk outline (1-2 paragraphs)
+      * I would like to build up foundation of my app that I'm working on right now and give a presentaion about it *
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
+      * I hope to get feedback on my product and market myself and my skills to other companies *
     * Blog Post: Link to gist listing:
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
+* Link to your completed Turing portfolio with 2 additional projects: [Turing Portfolio](https://www.turing.io/alumni/sergey-lukyanenko)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
